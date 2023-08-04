@@ -2,6 +2,8 @@
 
 RMIT student project: Epistasis text mining
 
+Student names:
+
 ## General overview
 
 **Project title:**  
